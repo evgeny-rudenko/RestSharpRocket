@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpRocket", "RestSharpRocket\RestSharpRocket.csproj", "{9CD4593C-A260-4DC4-9F42-D89BFC2E4607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketChatLib", "RocketChatLib\RocketChatLib.csproj", "{83D36F0E-64A2-4018-8632-62AB2E94D8D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{5F2E52F0-DA55-4CB7-A990-3DE25313CA7E}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.MD = Readme.MD
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD4593C-A260-4DC4-9F42-D89BFC2E4607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD4593C-A260-4DC4-9F42-D89BFC2E4607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD4593C-A260-4DC4-9F42-D89BFC2E4607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD4593C-A260-4DC4-9F42-D89BFC2E4607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D36F0E-64A2-4018-8632-62AB2E94D8D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D36F0E-64A2-4018-8632-62AB2E94D8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D36F0E-64A2-4018-8632-62AB2E94D8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D36F0E-64A2-4018-8632-62AB2E94D8D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FF44F76-AF16-449E-94B4-BE16D1DB3481}
+	EndGlobalSection
+EndGlobal

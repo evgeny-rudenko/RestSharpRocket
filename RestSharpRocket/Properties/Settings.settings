@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RestSharpRocket.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="uri" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://77.82.87.197:3000/api/v1/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
