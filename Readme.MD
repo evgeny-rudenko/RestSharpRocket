@@ -1,4 +1,4 @@
-# Библиотека для отправвки сообщений в [RocketChat] (https://www.rocket.chat/ "Rocket Chat")
+# Библиотека для отправки сообщений в [RocketChat](https://www.rocket.chat/ "Rocket Chat")
 
 Можно использовать для отправки сообщений о событиях
 
@@ -10,7 +10,7 @@
 * Набор методов расширения для строк (будет использовано позже)
 
 
-[Докуметация RocketChat для разрабочиков] (https://developer.rocket.chat/ "Rocket Chat")
+[Докуметация RocketChat для разрабочиков](https://developer.rocket.chat/ "Rocket Chat")
 
 
 ![image info](RocketChat.png)
