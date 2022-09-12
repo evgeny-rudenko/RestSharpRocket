@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{5F2E52F0-DA55-4CB7-A990-3DE25313CA7E}"
 	ProjectSection(SolutionItems) = preProject
 		Readme.MD = Readme.MD
+		RocketChat.png = RocketChat.png
 	EndProjectSection
 EndProject
 Global
