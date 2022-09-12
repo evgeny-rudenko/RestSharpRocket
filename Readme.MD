@@ -10,6 +10,19 @@
 * Набор методов расширения для строк (будет использовано позже)
 
 
+## Пример использования
+
+``
+RocketChat r = new RocketChat(user, password, uri);
+var channels = r.ChannelList;
+var response = r.PostMessage("Test", "servermessages");
+
+``
+
+
+
+***
+
 [Докуметация RocketChat для разрабочиков](https://developer.rocket.chat/ "Rocket Chat")
 
 

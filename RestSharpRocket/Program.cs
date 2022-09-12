@@ -25,7 +25,7 @@ namespace RestSharpRocket
             // Аутентификационные данные
 
             RocketChat r = new RocketChat(suser, spassword, uri);
-
+            var channels = r.ChannelList;
             var response = r.PostMessage("Test", "servermessages");
 
             // Список каналов
